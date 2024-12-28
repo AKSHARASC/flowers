@@ -1,0 +1,36 @@
+body{
+    background-color: #FFF0A5;/*
+    Light Yellow*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    text-align: center;
+    padding: 20 px;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    text-align: center;
+}
+nav li{
+    display: inline;
+    margin: 0 10 px;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+main{
+    padding:  20px;
+}
+img {
+    max-width: 500px;
+    display: block;
+    margin: 20px auto;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #eee;
+}
